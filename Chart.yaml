@@ -1,0 +1,23 @@
+description: Reaction Commerce is the most popular open source, real-time 
+  platform that combines the flexibility developers and designers want with the 
+  stability and support businesses need.
+engine: gotpl
+home: https://www.reactioncommerce.com/
+icon: https://docs.reactioncommerce.com/images/header/reaction-commerce-logo-and-name.svg
+keywords:
+- commerce
+- marketplace
+- http
+- web
+- application
+- nodejs
+- javascript
+- meteor
+maintainers:
+- email: info@fyberlabs.com
+  name: ReactionCommerce
+- name: fyberlabs
+name: reactioncommerce
+sources:
+- https://github.com/reactioncommerce/reaction
+version: 0.0.1
